@@ -1,0 +1,47 @@
+Curso JAVA
+
+HTML
+
+- Language de marcado de Hipertexto
+- Usado para estructurar elementos de cada pagina:
+  - Imagenes
+  - Parrafos
+  - Encabezados etc.
+
+CSS
+
+Lenguaje de hojas de estilos en cascadas
+
+DOM:
+
+Transforma Código html a objeto que puede entender el navegador
+
+CSSDOM:
+
+Transformar el Código CSS a objeto que puede entender el navegador
+
+Render Tree:
+
+Es el arbol que une el DOM y SCCDOM para renderizar y convertirlo a un Código en entienda el navegador.
+
+Estructura basica de un html
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Java-Curso</title>
+        </head>
+
+        <body>
+            <h1>Curso Java</h1>
+            <p1>Estoy mamasei</p1>
+        </body>
+</html>
+
+Atributos:
+
+En HTML, los atributos son fragmentos adicionales de información incluidos en las etiquetas de los elementos HTML para proporcionar más detalles sobre esos elementos
+
+Encabezado:
+
+En HTML, los encabezados son elementos que se utilizan para definir la estructura y jerarquía del contenido en una página web.
